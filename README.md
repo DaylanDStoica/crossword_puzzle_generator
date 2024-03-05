@@ -1,6 +1,7 @@
 # crossword_puzzle_generator
 Create application, that allows user to create their own crossword puzzles.
 
+Creator: Daylan Stoica,   @DaylanDStoica
 given options at time of start, a new window will be opened, showing the puzzle being created.
 The user will provide an answer, and a clue. Separated by some spacer character for syntax.
 The length of the answer will be extracted, and a row of equal length will be added to the puzzle window live, showing the puzzle grow as the user provides input. 
